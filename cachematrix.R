@@ -1,7 +1,7 @@
 ## This functions saves the inverse of a matrix in the cache
 ## and retrieves it when necessary
 
-## This functiom creates an object "mat" which stores the inverse
+## This function creates an object "mat" which stores the inverse
 ## of a matrix "x" in the cache.
 
 makeCacheMatrix <- function(x = matrix()) {
